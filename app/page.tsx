@@ -20,6 +20,7 @@ const HomePage = () => {
 
   return (
 
+    <>
     <div className={styles.home}>
       <Image
         src="/logo.jpg"
@@ -48,7 +49,11 @@ const HomePage = () => {
         </Link>
       </Space>
 
+      
     </div>
+    <div className={styles.copyright}>Copyright © 2023 Yiming Mao(毛一鸣). All Rights Reserved</div>
+    </>
+    
   )
 }
 export default HomePage
