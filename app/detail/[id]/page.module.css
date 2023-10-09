@@ -1,0 +1,24 @@
+.page{
+    padding: 20px 50px;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+}
+
+.info{
+    display: flex;
+}
+
+.img{
+    flex-basis: 550px;
+    flex: 0;
+    margin-right: 20px;
+}
+
+.desc{
+    margin-top: 50px;
+}

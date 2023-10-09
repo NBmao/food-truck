@@ -1,0 +1,14 @@
+.page{
+    padding: 20px 40px;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.keyword{
+    font-size: 20px;
+}
